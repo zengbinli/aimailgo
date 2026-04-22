@@ -1,0 +1,10 @@
+*.class
+out/
+build/
+.gradle/
+.gradle/
+*.jar
+!lib/
+.idea/
+*.iml
+*.swp
